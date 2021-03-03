@@ -1,8 +1,8 @@
 # Spanish Person Name Generator
 This script generate a 10k list of random names extracted from the gazeteers compiled by the Instituto Nacional de Estadística.
 
-Given a list of male and female names, creates random names composed of:
-- name + first name + second name
+Given a list of male and female names, and a list of surnames creates random names composed of:
+- name + first surname + second surname
 
 where each of them can be composed of one or more words.
 
